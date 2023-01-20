@@ -1,10 +1,10 @@
 # Body Measurements Project
 
-This project was created to use with my flutter application. For now, it's just proof of concept.
+This project was created to be used with my flutter application. For now, it's just proof of concept.
 
 The main idea is to replace my old project that uses firebase and android.
 
-The focus of this project was to use Quarkus Framework, RESTEasy JAX-RS, Keycloak, Panache and Lombok.
+The focus was to use Quarkus Framework, RESTEasy JAX-RS, Keycloak, Panache and Lombok.
 
 
 ## Running the application in dev mode
